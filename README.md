@@ -1,5 +1,5 @@
 # Oishi-Great-STSWENG
-This is the updated website as a requirement for STSWENG
+This is the updated e-commerce website for a water refilling company as a requirement for CSSWENG and STSWENG
 
 .env
 
